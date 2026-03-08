@@ -46,9 +46,6 @@ An interactive Excel dashboard featuring:
 - Top items bar chart
 - Category performance breakdown
 - Slicers for dynamic filtering
-  
-![Restaurant Sales Dashboard](restuarant.png)
-  
 
 ### Insights
 - Sales showed seasonal patterns with peak months
