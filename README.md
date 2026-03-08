@@ -47,6 +47,8 @@ An interactive Excel dashboard featuring:
 - Category performance breakdown
 - Slicers for dynamic filtering
 
+  ![Restaurant Sales Dashboard](restaurant.png)
+
 ### Insights
 - Sales showed seasonal patterns with peak months
 - Some high-volume products had low revenue contribution, indicating pricing optimization opportunities
