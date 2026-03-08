@@ -47,7 +47,7 @@ An interactive Excel dashboard featuring:
 - Category performance breakdown
 - Slicers for dynamic filtering
   
-![Restaurant Sales Performance Dashboard](restuarant-sales-performance-analysis.png)
+![Restaurant Sales Dashboard](restuarant-sales-performance-analysis.png)
   
 
 ### Insights
