@@ -1,13 +1,13 @@
 # RESTAURANT-SALES-PERFORMANCE-ANALYSIS.
 ## Table of Content 
-  - [Project Overview](project-overview)
-  - [Project Objective](project-objective)
-  - [Data Cleaning and Transformation Process](data-cleaning-and-transformation-process)
-  - [Exploratory Data Analysis (EDA)](exploratory-data-analysis-(eda))
-  - [Dashboard](dashboard)
-  - [Insights](insights)
-  - [Recommendations](recommendations)
-  - [Tools Used](tools-used)
+  - [Project Overview](#project-overview)
+  - [Project Objective](#project-objective)
+  - [Data Cleaning and Transformation Process](#data-cleaning-and-transformation-process)
+  - [Exploratory Data Analysis](#exploratory-data-analysis)
+  - [Dashboard](#dashboard)
+  - [Insights](#insights)
+  - [Recommendations](#recommendations)
+  - [Tools Used](#tools-used)
 
 ## Project Overview
 This project offers an opportunity to analyse transactional data to uncover trends in sales performance, item demands, and customer purchasing behaviour. The goal is to transform raw data sales data into actionable insights that support data-driven business decisions.
@@ -32,7 +32,7 @@ To answer key business questions like;
      - Total revenue
      - Average order
      - Total orders
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis
 This analysis focused on:
 - Monthly revenue trends
 - Category-level performances
