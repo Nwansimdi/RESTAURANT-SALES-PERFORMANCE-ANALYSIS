@@ -1,5 +1,6 @@
 # RESTAURANT-SALES-PERFORMANCE-ANALYSIS.
 ## Table of Content 
+  - [Data Source](#data-source)
   - [Project Overview](#project-overview)
   - [Project Objective](#project-objective)
   - [Data Cleaning and Transformation Process](#data-cleaning-and-transformation-process)
@@ -8,6 +9,10 @@
   - [Insights](#insights)
   - [Recommendations](#recommendations)
   - [Tools Used](#tools-used)
+
+## Data Source
+This dataset was gottten from Kaggle.
+![Raw Dataset](restaurant_sales_data.csv)
 
 ## Project Overview
 This project offers an opportunity to analyse transactional data to uncover trends in sales performance, item demands, and customer purchasing behaviour. The goal is to transform raw data sales data into actionable insights that support data-driven business decisions.
@@ -47,6 +52,7 @@ An interactive Excel dashboard featuring:
 - Category performance breakdown
 - Slicers for dynamic filtering
 
+![Restaurant Sales Dashboard](dash-board.jpg)
 
 ### Insights
 - Sales showed seasonal patterns with peak months
